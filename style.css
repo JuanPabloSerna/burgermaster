@@ -377,7 +377,7 @@ body { /* Cuerpo visible de la página */
 } /* Fin de .menu-card-title */
 
 .menu-card-desc { /* Descripción corta del producto */
-    color: #777777; /* Gris para texto secundario */
+    color: #c90808; /* Gris para texto secundario */
     font-size: 0.88rem; /* Tamaño pequeño del párrafo */
     line-height: 1.6; /* Altura de línea cómoda */
     padding: 0 24px; /* Margen lateral interno */
