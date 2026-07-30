@@ -387,7 +387,7 @@ body { /* Cuerpo visible de la página */
 .btn-order { /* Botón rojo "ORDER NOW" */
     display: inline-block; /* Permite padding y márgenes */
     text-decoration: none; /* Sin subrayado */
-    background-color: #bf2222; /* Fondo rojo del botón */
+    background-color: #bfbc22; /* Fondo rojo del botón */
     color: #ffffff; /* Texto blanco */
     padding: 14px 36px; /* Espacio interno del botón */
     font-size: 0.85rem; /* Tamaño del texto del botón */
